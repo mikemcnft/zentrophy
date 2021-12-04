@@ -1,5 +1,5 @@
 # zentrophy
-instructions for the trophy smart contract
+instructions for the trophy smart contract - "trophy.sol".  trophy_flatten included simply to enable ease of verification for etherscan.
 
 before deploying remember to change the mint address at line 37 to the contract owner
 
@@ -10,3 +10,4 @@ To transfer the trophy from one winner to the next, use the "ship trophy" write 
 Token ID for prior trophy is 888; Token ID for Zen bounty is 33, and Token ID for J Bounty is 66.
 
 Sample jsons for the token meta data is included in the folder tree.
+
